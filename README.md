@@ -4,8 +4,6 @@ I am a self learning Tech aspirant. I am looking for Web developer role or softw
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/udhayapower) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/udhayasurya-u-3ab599288/)) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/MUTANTs) 
-# 💫 About Me:
-I am looking for full stack development role done so any projects proficient in many technologies<br>
 
 
 ## 🌐 Socials:
