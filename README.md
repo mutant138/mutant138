@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a self learning Tech aspirant. I am looking for Web developer role or software developer role in Tech Industry<br>
+I am a Biotechnology graduate from LPU with a strong foundation in scientific research, data analysis, and problem-solving. While my educational background is in Biotechnology, I am passionate about the dynamic world of Information Technology. I am eager to leverage my analytical skills, adaptability, and passion for technology to excel in IT roles.<br>
+
+During my academic journey, I developed a keen interest in the potential of technology to address real-world challenges. I have also taken the initiative to expand my IT knowledge through online courses and self-study. I am excited to apply my multidisciplinary skills to contribute to the IT industry.<br>
+
+My goal is to embark on a fulfilling career in IT especially in software development, where I can continuously learn, innovate, and make a positive impact. I am open to networking with IT professionals and exploring opportunities that allow me to grow in this exciting field. Please feel free to connect with me or reach out to discuss potential collaborations and opportunities.<br>
 
 
 ## 🌐 Socials:
